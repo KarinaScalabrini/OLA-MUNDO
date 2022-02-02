@@ -1,4 +1,2 @@
 # Olá-Mundo
-Primeiro repositório do curso.
-
- 
+Primeiro repo .
